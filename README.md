@@ -34,4 +34,4 @@ src="https://img.shields.io/github/followers/luizfsilvano?color=%23f04&logo=GitH
   <a href="https://www.youtube.com/channel/UCSexu9ePwjco2YZvlJ0-yzw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
-### Thank you for listen to me!
+### Thanks for reading!
