@@ -14,8 +14,8 @@ I am also a student at [IESB](https://www.iesb.br/).
 * 🤝  I am open to learn any technology;
 * ⚡  I also love music, and i play guitar as my main instrument;
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<a href="https://www.github.com/luizfsilvano" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/luizfsilvano?color=%23f04&logo=GitHub&style=for-the-badge" /></a>
 
 ### Skills
 
