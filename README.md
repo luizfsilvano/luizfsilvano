@@ -1,19 +1,18 @@
-Hi 👋 My name is Guilhermo
+Hi 👋 My name is Luiz Felipe
 ==========================
 
-Full Stack Software Developer
+An starter Front End Developer
 -----------------------------
 
-I'm a 20 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 17 years old developer. I love the possibilities that programming gives us and I really want to learn as many technologies as I can. My main focus are front and back-end development, but i'm still learning.
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
+I am also a student at [IESB](https://www.iesb.br/).
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
-* 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* 🌍  I'm based in Brasília, Distrito Federal;
+* ✉️  You can contact me at [luizfsilvano@gmail.com](mailto:luizfsilvano@gmail.com);
+* 🧠  I'm learning JavaScript and Unity C#;
+* 🤝  I am open to learn any technology;
+* ⚡  I also love music, and i play guitar as my main instrument;
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
