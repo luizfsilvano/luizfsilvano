@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/luizfsilvano?color=%23f04&logo=GitH
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<a href="unity.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" width = "36" alt="UNITY"/></a>
 </p>
 
 ### Socials
