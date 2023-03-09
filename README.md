@@ -29,7 +29,6 @@ src="https://img.shields.io/github/followers/luizfsilvano?color=%23f04&logo=GitH
 
 <p align="left">
   <a href="https://discord.com/users/742528317529522216" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/127417550/224076637-e5ed01e9-b380-4789-8964-60bf75939fe4.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/luizfsilvano" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/127417550/224076796-c23f54ba-bd87-4f39-a5a7-ebcb05d1b796.svg" width="32" height="32" color="#fff" /></a>
   <a href="https://www.linkedin.com/in/luiz-felipe-sampaio-silvano-661545269/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://www.youtube.com/channel/UCSexu9ePwjco2YZvlJ0-yzw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
