@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/luizfsilvano?color=%23f04&logo=GitH
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="unity.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/127417550/224073140-4d4a132b-6d8c-4b1d-bbaf-c94e19ed9746.svg" width="36" alt="UNITY"/></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/127417550/224073648-4ceebeb0-4ec5-4483-a049-fde4bb138edb.svg" width="36" alt="CSS3"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/127417550/224074156-236642d5-5c6f-4ffc-905e-f34b95d5a9fe.svg" width="36" alt="CSS3"/></a>
 </p>
 
 ### Socials
