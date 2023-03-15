@@ -12,7 +12,7 @@ I am also a student at [IESB](https://www.iesb.br/).
 * ✉️  You can contact me at [luizfsilvano@gmail.com](mailto:luizfsilvano@gmail.com);
 * 🧠  I'm currently learning JavaScript;
 * 🤝  I'm open to learn any technology;
-* 🎵  I also love music, and i play guitar as my main instrument;
+* 🎵  I also love music, and i play guitar as my main instrument, but i also play keyboard;
 
 <a href="https://www.github.com/luizfsilvano" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/luizfsilvano?color=%23f04&logo=GitHub&style=for-the-badge" /></a>
