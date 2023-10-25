@@ -10,7 +10,7 @@ I am also a student at [IESB](https://www.iesb.br/).
 
 * 🌍  I'm based in Brasília, Distrito Federal;
 * ✉️  You can contact me at [luizfsilvano@gmail.com](mailto:luizfsilvano@gmail.com);
-* 🧠  I'm currently learning JavaScript;
+* 🧠  I'm currently learning C;
 * 🤝  I'm open to learn any technology;
 * 🎵  I also love music, and i play guitar as my main instrument, but i also play keyboard;
 
