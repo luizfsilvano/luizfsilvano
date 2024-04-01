@@ -10,7 +10,7 @@ I am also a student at [IESB](https://www.iesb.br/).
 
 * 🌍  I'm based in Brasília, Distrito Federal;
 * ✉️  You can contact me at [luizfsilvano@gmail.com](mailto:luizfsilvano@gmail.com);
-* 🧠  I'm currently learning Python;
+* 🧠  I'm currently learning Ruby;
 * 🤝  I'm open to learn any technology;
 * 🎵  I also love music, and i play guitar as my main instrument, but i also play keyboard;
 
@@ -20,11 +20,13 @@ src="https://img.shields.io/github/followers/luizfsilvano?color=%23f04&logo=GitH
 ### Skills
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="36" height="36" alt="HTML5"/>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="https://unity.com/pt" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/127417550/224074358-ab88b4df-44c5-4e4d-9ad2-25bd7eb78109.svg" width="36" alt="UNITY"/></a>
-<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C99"/>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="UNITY"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ### Socials
