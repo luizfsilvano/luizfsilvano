@@ -20,9 +20,9 @@ src="https://img.shields.io/github/followers/luizfsilvano?color=%23f04&logo=GitH
 ### Skills
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="36" height="36" alt="HTML5" />
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/127417550/224074585-c7cf0b8f-7e7b-4edc-a4bf-7dfcc5100199.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/127417550/224074156-236642d5-5c6f-4ffc-905e-f34b95d5a9fe.svg" width="36" alt="CSS3"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="36" height="36" alt="HTML5"/>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://unity.com/pt" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/127417550/224074358-ab88b4df-44c5-4e4d-9ad2-25bd7eb78109.svg" width="36" alt="UNITY"/></a>
 <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 </p>
