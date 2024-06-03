@@ -4,7 +4,7 @@ Hi 👋 My name is Luiz Felipe
 An starter Back-End Developer
 -----------------------------
 
-I'm a 18 years old developer. I love the possibilities that programming gives us and I really want to learn as many technologies as I can. My main focus are gamedev and back-end development, but i'm still learning.
+I'm a 19 years old developer. I love the possibilities that programming gives us and I really want to learn as many technologies as I can. My main focus are gamedev and back-end development, but i'm still learning.
 
 I am also a student at [IESB](https://www.iesb.br/).
 
@@ -12,7 +12,7 @@ I am also a student at [IESB](https://www.iesb.br/).
 * ✉️  You can contact me at [luizfsilvano@gmail.com](mailto:luizfsilvano@gmail.com);
 * 🧠  I'm currently learning Ruby;
 * 🤝  I'm open to learn any technology;
-* 🎵  I also love music, and i play guitar as my main instrument, but i also play keyboard;
+* 🎵  I also love music, and i play guitar as my main instrument, but i also play piano and cavaquinho;
 
 <a href="https://www.github.com/luizfsilvano" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/luizfsilvano?color=%23f04&logo=GitHub&style=for-the-badge" /></a>
