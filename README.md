@@ -1,7 +1,7 @@
 Hi 👋 My name is Luiz Felipe
 ==========================
 
-An starter Back-End Developer
+An starter Software Developer
 -----------------------------
 
 I'm a 19 years old developer. I love the possibilities that programming gives us and I really want to learn as many technologies as I can. My main focus are gamedev and back-end development, but i'm still learning.
