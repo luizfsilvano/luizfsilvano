@@ -1,10 +1,10 @@
 Hi 👋 My name is Luiz Felipe
 ==========================
 
-An starter Software Developer
+Computer Science Student
 -----------------------------
 
-I'm a 19 years old developer. I love the possibilities that programming gives us and I really want to learn as many technologies as I can. My main focus are gamedev and back-end development.
+A future backend-focused developer from Brasília and a Computer Science student. I'm passionate about solving real-world problems through efficient code. Constantly learning and setting new challenges, i'm building a career path in backend development with ambitious goals in tech.
 
 I am also a student at [IESB](https://www.iesb.br/).
 
