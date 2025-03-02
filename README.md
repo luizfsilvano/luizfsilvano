@@ -36,5 +36,7 @@ src="https://img.shields.io/github/followers/luizfsilvano?color=%23f04&logo=GitH
   <a href="https://www.linkedin.com/in/luiz-felipe-sampaio-silvano-661545269/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://www.youtube.com/channel/UCSexu9ePwjco2YZvlJ0-yzw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfsilvano&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfsilvano&layout=compact&theme=synthwave&hide=html,css,dockerfile,procfile)
 
 ### Thanks for reading!
